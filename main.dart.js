@@ -53223,8 +53223,8 @@ ag(){var s=A.a([!1,!1],t.sj),r=$.b_(),q=t.v
 return new A.E0(new A.dd(s,r),A.a([0,0],q),A.a([0,0],q),A.a([0,0],q),A.a([0,0],q),new A.bs(null,t.A),new A.dd(A.a([0,0],t.ew),r),B.k)}}
 A.E0.prototype={
 uX(a){var s=null
-return new A.cO(B.eK,A.tf(B.ea,A.a([A.zn(B.Y,!0,B.eb,A.a2p(B.eb,A.a2F(s,A.a5I(A.a5M("images/"+a+".jpg",s,this.c.V(t.w).f.a.a*0.25),a),B.aV,!1,s,s,s,s,s,s,s,s,s,s,new A.Yq(a),s,s,s,s,s,s)),B.x,s,10,s,s,s,s,s,B.ch),new A.cO(B.aW,A.Kq(new A.cO(B.eK,A.i1(a.toUpperCase(),B.Gc,s,s),s),s,10,B.Cx),s)],t.E),B.cC),s)},
-RI(){var s,r,q,p,o,n,m=this,l=null,k=A.h($.Jv().a),j=t.w
+return new A.cO(B.eK,A.tf(B.ea,A.a([A.zn(B.Y,!0,B.eb,A.a2p(B.eb,A.a2F(s,A.a5I(A.a5M("images/"+a.toLowerCase()+".jpg",s,this.c.V(t.w).f.a.a*0.25),a),B.aV,!1,s,s,s,s,s,s,s,s,s,s,new A.Yq(a),s,s,s,s,s,s)),B.x,s,10,s,s,s,s,s,B.ch),new A.cO(B.aW,A.Kq(new A.cO(B.eK,A.i1(a.toUpperCase(),B.Gc,s,s),s),s,10,B.Cx),s)],t.E),B.cC),s)},
+RI(){var s,r,q,p,o,n,m=this,l=null,k=$.Jv().a.toLowerCase(),j=t.w
 j=m.c.V(j).f.a.a*0.28<350?350:m.c.V(j).f.a.a*0.28
 j=A.a5M("images/"+k+".jpg",B.vd,j)
 k=m.d
